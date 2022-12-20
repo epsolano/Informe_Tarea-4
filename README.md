@@ -37,5 +37,5 @@
 
 **7. BIBLIOGRAFÍA**
 
-* Floyd, Thomas.L. (2007). Floyd Octava Edición principios de circuitos electricos (8va edición, Vol.6 y 7). Prentice Hall
+* Floyd, Thomas.L. (2007). Floyd Octava Edición principios de circuitos electricos (8va edición, Vol.7 y 8). Prentice Hall
 
