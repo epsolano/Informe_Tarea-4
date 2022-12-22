@@ -24,7 +24,7 @@
 
 **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
-**CAPITULO 7**
+**CAPÍTULO 7**
 
 **SECCIÓN 7-1**
 **Identificación de fallas**
@@ -123,7 +123,76 @@
 
 **![image](https://user-images.githubusercontent.com/116835707/209032157-002d1b36-d115-4ef8-a151-fa1b62c6fd62.png)**
 
-**
+**CAPÍTULO 8**
+
+**SECCIÓN 8-3**
+**Conversiones de fuente**
+
+**![image](https://user-images.githubusercontent.com/116835707/209032734-96c939ae-0ee5-4054-b820-514752a12f87.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/209032823-5d388aaa-6c38-41e1-9a83-f56fa9c7ab31.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/209032862-15bd0ec9-c256-4147-bbd7-c95a9a8f5f44.png)**
+
+**SECCIÓN 8-4**
+**Teorema de superposición**
+
+**![image](https://user-images.githubusercontent.com/116835707/209032964-ce984c8e-c821-40aa-a5a0-e0f79000f8fa.png)**
+**![image](https://user-images.githubusercontent.com/116835707/209032997-dcdac19f-eeee-4a38-bc9a-ba38d052dd84.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/209033051-7957f469-4384-4806-baa7-9c5399258c55.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/209033112-51ebcbe2-c063-4c97-9d53-3e8b6262a7d0.png)**
+**![image](https://user-images.githubusercontent.com/116835707/209033143-6f971f33-bcb0-4d97-a9d2-ef426dc96030.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/209033182-907d7271-3526-4ac6-bdb1-1b80cbf975bb.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/209033238-f2c6d60f-ac36-42fb-830e-f12db6af2b89.png)**
+
+**SECCIÓN 8-5**
+**Teorema de Thevenin**
+
+**![image](https://user-images.githubusercontent.com/116835707/209033453-cf3f374c-110d-42bc-ac8d-b18824c4eb2a.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/209033519-f35704e7-8456-4145-934c-9cb58ca99f29.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/209033615-0ab9959e-8658-4e63-9809-41d01fc3410d.png)**
+
+**SECCIÓN 8-6**
+**Teorema de Norton**
+
+**![image](https://user-images.githubusercontent.com/116835707/209033723-7d0c9644-5639-416f-9555-2c2b55ac6fb5.png)**
+**![image](https://user-images.githubusercontent.com/116835707/209033777-b840ce63-c9a4-42a9-bd9f-1d349a46be12.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/209033899-2bc0334e-65ce-481b-90e7-c1ba159226e3.png)**
+**![image](https://user-images.githubusercontent.com/116835707/209033931-4c380c11-a1dd-46f3-b383-2e48cf6dc899.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/209034000-e5b99c00-2fb9-4554-850e-2f6b60def3fa.png)**
+**![image](https://user-images.githubusercontent.com/116835707/209034045-805fdd27-17ab-4ba8-8317-acd5304c56f4.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/209034097-f689b8b4-620d-41e0-84c9-673ebee397d2.png)**
+
+**SECCIÓN 8-7**
+**Teorema de transferencia de potencia máxima**
+
+**![image](https://user-images.githubusercontent.com/116835707/209034209-053336c6-4f6e-4ee4-a06b-c07bac37b68c.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/209034285-f3f5d23f-b0f5-4788-a4e5-38fd124a050e.png)**
+**![image](https://user-images.githubusercontent.com/116835707/209034341-22a7aeef-6876-4918-93b9-3d186650677a.png)**
+
+**SECCIÓN 8-8**
+**Conversión delta a Y ![image](https://user-images.githubusercontent.com/116835707/209034467-dae5e587-d082-4925-8581-f36f4a6d948d.png) y Y a ![image](https://user-images.githubusercontent.com/116835707/209034524-373cbb5f-8a6b-4e5c-a639-19d3391b7bd9.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/209034597-32955f6a-3b4b-4ab3-bce2-b0ed2624b338.png)**
+
+**Localización y análisis de fallas con multisim**
+
+**![image](https://user-images.githubusercontent.com/116835707/209034734-32e66fe9-5de8-4189-9cc2-af8e3aac2948.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/209034778-a26e01c5-385e-49fd-a418-85780c846135.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/209034828-2d36bc32-11da-495d-8baf-7f3fd8c2a6ad.png)**
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **4. VIDEO**
