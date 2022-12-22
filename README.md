@@ -58,14 +58,72 @@
 **![image](https://user-images.githubusercontent.com/116835707/209028033-9f1617cf-2345-47ce-9b9f-ae557563b5d6.png)**
 **![image](https://user-images.githubusercontent.com/116835707/209028104-adf0b943-d42c-4fcf-ab58-711be6390142.png)**
 
+**![image](https://user-images.githubusercontent.com/116835707/209028257-95ab9f03-2eb5-40c9-9020-aef13bd3946c.png)**
 
+**![image](https://user-images.githubusercontent.com/116835707/209028350-253e7403-3818-4dbc-9bff-8d41f56cea0e.png)**
 
+**SECCIÓN 7-3**
+**Divisores de voltaje con cargas resistivas**
 
+**![image](https://user-images.githubusercontent.com/116835707/209028589-39974140-c18d-4bcf-a746-c16115e70747.png)**
 
+**![image](https://user-images.githubusercontent.com/116835707/209028626-9ad58703-180f-415d-a827-9eb150447205.png)**
 
+**![image](https://user-images.githubusercontent.com/116835707/209028654-a9cbf493-24d6-4254-ba04-0354f5b32cf1.png)**
+**![image](https://user-images.githubusercontent.com/116835707/209028679-55b3861d-47bb-43a4-8b29-51949ecccbb1.png)**
 
+**![image](https://user-images.githubusercontent.com/116835707/209028742-58f6bdc0-336f-4ebe-ab4e-0d1cde6c6296.png)**
 
+**![image](https://user-images.githubusercontent.com/116835707/209028860-2a37743c-92c0-48a6-8533-75dbac88bdcc.png)**
+**![image](https://user-images.githubusercontent.com/116835707/209028911-4ace892f-d0d7-454a-9c22-246afd2c8fc1.png)**
 
+**SECCIÓN 7-4**
+**Efecto de carga de un voltímetro**
+
+**![image](https://user-images.githubusercontent.com/116835707/209029066-bc071782-6890-48aa-9bc5-99967143ff3f.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/209029115-cd88b624-2226-4d79-858b-76033f051dc4.png)**
+**![image](https://user-images.githubusercontent.com/116835707/209029328-fddda2a0-47be-48a1-9647-1da9071fec44.png)**
+
+**SECCIÓN 7-5**
+**Redes en escalera**
+
+**![image](https://user-images.githubusercontent.com/116835707/209029644-daeb73d4-7eb8-41f9-9149-6176280dfbfa.png)**
+**![image](https://user-images.githubusercontent.com/116835707/209029691-e1ec71d6-3c75-443f-809a-27829aeae18f.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/209029722-fa1006d5-348b-4ad3-8561-ccc9010aebff.png)**
+**![image](https://user-images.githubusercontent.com/116835707/209029752-9ebb9bc5-1f08-4172-9f84-d7bebd7663e0.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/209029813-864a06ff-6d4c-4454-9fc7-f7e66d6a538d.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/209031445-dd878056-d4c7-4688-b087-28d66d7ffba2.png)**
+**![image](https://user-images.githubusercontent.com/116835707/209031489-29bd1893-dcf9-428a-a09c-cd4fc0498ce3.png)**
+
+**SECCIÓN 7-6**
+**El puente de Wheatstone**
+
+**![image](https://user-images.githubusercontent.com/116835707/209031617-db6d7194-ada9-4dad-8580-afea68ab752d.png)**
+
+**SECCIÓN 7-7**
+**Localización de fallas**
+
+**![image](https://user-images.githubusercontent.com/116835707/209031760-99159840-8140-4534-bd27-cb98d1ea3331.png)**
+**![image](https://user-images.githubusercontent.com/116835707/209031803-735a53e2-16d5-4c2e-8704-8cc9634cdb8e.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/209031870-761be0ea-3ff2-458a-84d0-e52266497894.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/209031923-0115a3e9-468f-45d9-bf81-c50ce4b72069.png)**
+**![image](https://user-images.githubusercontent.com/116835707/209031957-928e838c-fff7-414a-8bf4-a9a0daa2d530.png)**
+
+**Localización de fallas**
+
+**![image](https://user-images.githubusercontent.com/116835707/209032057-50767482-0a6b-4850-9973-fc88190e4f08.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/209032103-a7139dd7-a2ba-4a5c-80b1-ed0dd79dc71d.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/209032157-002d1b36-d115-4ef8-a151-fa1b62c6fd62.png)**
+
+**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **4. VIDEO**
@@ -80,3 +138,4 @@
 
 * Floyd, Thomas.L. (2007). Floyd Octava Edición principios de circuitos electricos (8va edición, Vol.7 y 8). Prentice Hall
 
+****
