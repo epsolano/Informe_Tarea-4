@@ -13,7 +13,13 @@
 
 **1.1  OBJETIVO GENERAL**
 
+Aprender las relaciones en serie-paralelo. el cálculo de sus componenetes como resistencias, corriente y voltajes; tamabién aprender los diferentes teoremas que se usan para el cálculo de los mismos.
+
 **1.2  OBJETIVOS ESPECIFICOS**
+* Aprender a usar el teorema de Thevenin y de Norton de una manera adecuada.
+* Identificar cuando un circuito está en serie-paralelo.
+* Comprender el efecto de carga de un voltimetro.
+* Realizar conversiones Delta a Y y Y a Delta.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -338,6 +344,10 @@
 
 **5. CONCLUSIONES**
 
+* El teorema de Norton nos ayuda a reducir un circuito más complejo a una forma equivalente más simple, y el teorema de Thevenin nos proporciona un circuito equivalente el cual puede reemplazar al circuito original en cuanto a cualquier carga externa.
+* Un circuito está en serie-paralelo cuando en el circuito existe combinaciones de trayectorias para corriente dispuestas tanto en serie como en paralelo.
+* Hay que tener en cuenta que cuando la resistencia interna del voltímetro es menor a la del circuito esto hará que el voltaje que nos muestre se a incorrecto.
+* Para realizar las conversiones Delta a Y y Y a Delta se utilizan dos fórmulas las cuales se usan dependiendo si se quiere transformar de Y a Delta, o de Delta a Y este proceso nos ayuda a simplificar el circuito.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **7. BIBLIOGRAFÍA**
