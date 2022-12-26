@@ -220,24 +220,42 @@
 
 **![image](https://user-images.githubusercontent.com/116835707/209032734-96c939ae-0ee5-4054-b820-514752a12f87.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/209503982-5c341f1f-7848-4895-94b3-aaae3d1b2b92.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/209032823-5d388aaa-6c38-41e1-9a83-f56fa9c7ab31.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/209504011-ef790697-95cf-48a4-bff9-98bdfce8d598.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/209032862-15bd0ec9-c256-4147-bbd7-c95a9a8f5f44.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/209504039-3ae89c9b-4e99-45c1-a281-71832192cbe2.png)
 
 **SECCIÓN 8-4**
 **Teorema de superposición**
 
 **![image](https://user-images.githubusercontent.com/116835707/209032964-ce984c8e-c821-40aa-a5a0-e0f79000f8fa.png)**
+
 **![image](https://user-images.githubusercontent.com/116835707/209032997-dcdac19f-eeee-4a38-bc9a-ba38d052dd84.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/209504090-31fc7107-620c-4687-80cf-337703d01b6f.png)
 
 **![image](https://user-images.githubusercontent.com/116835707/209033051-7957f469-4384-4806-baa7-9c5399258c55.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/209504118-f273d3d8-53e6-471c-9e0a-1e38cefca51b.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/209033112-51ebcbe2-c063-4c97-9d53-3e8b6262a7d0.png)**
+
 **![image](https://user-images.githubusercontent.com/116835707/209033143-6f971f33-bcb0-4d97-a9d2-ef426dc96030.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/209504141-ee8b13ea-1897-46b1-87bf-e2a20dfbf480.png)
 
 **![image](https://user-images.githubusercontent.com/116835707/209033182-907d7271-3526-4ac6-bdb1-1b80cbf975bb.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/209504163-d9c471b2-2455-4a79-a32d-435880dfed12.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/209033238-f2c6d60f-ac36-42fb-830e-f12db6af2b89.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/209504185-b99007cb-82a0-4f3f-a99a-30191c65f71a.png)
 
 **SECCIÓN 8-5**
 **Teorema de Thevenin**
