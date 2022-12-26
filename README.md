@@ -178,16 +178,26 @@
 
 **![image](https://user-images.githubusercontent.com/116835707/209031617-db6d7194-ada9-4dad-8580-afea68ab752d.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/209503607-c4bc1878-6fdd-4155-811c-f0cbff30f7de.png)
+
 **SECCIÓN 7-7**
 **Localización de fallas**
 
 **![image](https://user-images.githubusercontent.com/116835707/209031760-99159840-8140-4534-bd27-cb98d1ea3331.png)**
+
 **![image](https://user-images.githubusercontent.com/116835707/209031803-735a53e2-16d5-4c2e-8704-8cc9634cdb8e.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/209503669-43c0c6b1-e988-4c5a-aa34-c8a02d415eba.png)
 
 **![image](https://user-images.githubusercontent.com/116835707/209031870-761be0ea-3ff2-458a-84d0-e52266497894.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/209503700-b468a279-891d-47e6-993b-050d9b8cda27.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/209031923-0115a3e9-468f-45d9-bf81-c50ce4b72069.png)**
+
 **![image](https://user-images.githubusercontent.com/116835707/209031957-928e838c-fff7-414a-8bf4-a9a0daa2d530.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/209503721-6681e524-fec0-4e25-88bf-5d5c7a7cc4c5.png)
 
 **Localización de fallas**
 
