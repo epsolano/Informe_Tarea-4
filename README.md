@@ -140,22 +140,38 @@
 
 **![image](https://user-images.githubusercontent.com/116835707/209029066-bc071782-6890-48aa-9bc5-99967143ff3f.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/209503397-ba3cd1c8-d4ee-4763-8e3c-2aee3a3bafef.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/209029115-cd88b624-2226-4d79-858b-76033f051dc4.png)**
+
 **![image](https://user-images.githubusercontent.com/116835707/209029328-fddda2a0-47be-48a1-9647-1da9071fec44.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/209503416-ea8b17f6-1507-4d80-b5e6-a2d924375606.png)
 
 **SECCIÓN 7-5**
 **Redes en escalera**
 
 **![image](https://user-images.githubusercontent.com/116835707/209029644-daeb73d4-7eb8-41f9-9149-6176280dfbfa.png)**
+
 **![image](https://user-images.githubusercontent.com/116835707/209029691-e1ec71d6-3c75-443f-809a-27829aeae18f.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/209503467-aceac21b-5620-4030-b122-16e522f7a9ec.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/209029722-fa1006d5-348b-4ad3-8561-ccc9010aebff.png)**
+
 **![image](https://user-images.githubusercontent.com/116835707/209029752-9ebb9bc5-1f08-4172-9f84-d7bebd7663e0.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/209503491-edd505de-4e95-4dab-9d69-cb19a88b2999.png)
 
 **![image](https://user-images.githubusercontent.com/116835707/209029813-864a06ff-6d4c-4454-9fc7-f7e66d6a538d.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/209503519-7224549c-70fc-4541-98b8-6021634e5119.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/209031445-dd878056-d4c7-4688-b087-28d66d7ffba2.png)**
+
 **![image](https://user-images.githubusercontent.com/116835707/209031489-29bd1893-dcf9-428a-a09c-cd4fc0498ce3.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/209503550-a3947f02-4753-4cbf-ab57-e3d344280847.png)
 
 **SECCIÓN 7-6**
 **El puente de Wheatstone**
