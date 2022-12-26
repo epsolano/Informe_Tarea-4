@@ -262,9 +262,15 @@
 
 **![image](https://user-images.githubusercontent.com/116835707/209033453-cf3f374c-110d-42bc-ac8d-b18824c4eb2a.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/209504246-38b48260-5e97-45df-912d-f54a65fd76bc.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/209033519-f35704e7-8456-4145-934c-9cb58ca99f29.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/209504282-eb84a81d-f8dc-476c-b9dd-901d294add52.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/209033615-0ab9959e-8658-4e63-9809-41d01fc3410d.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/209504311-f04427f5-7301-49b5-9d52-441ca82cb893.png)
 
 **SECCIÓN 8-6**
 **Teorema de Norton**
