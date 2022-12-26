@@ -93,15 +93,27 @@
 
 **![image](https://user-images.githubusercontent.com/116835707/209028589-39974140-c18d-4bcf-a746-c16115e70747.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/209502462-a580e98e-19c1-4a5a-8bc8-015c39c874f1.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/209028626-9ad58703-180f-415d-a827-9eb150447205.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/209502493-c2c211af-5750-466a-b99f-645253df516e.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/209028654-a9cbf493-24d6-4254-ba04-0354f5b32cf1.png)**
+
 **![image](https://user-images.githubusercontent.com/116835707/209028679-55b3861d-47bb-43a4-8b29-51949ecccbb1.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/209502517-ee962d23-7dbf-4548-83b9-1b4fbc8c0e80.png)
 
 **![image](https://user-images.githubusercontent.com/116835707/209028742-58f6bdc0-336f-4ebe-ab4e-0d1cde6c6296.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/209502539-37ef3013-5dff-40f8-ab56-0b1c05b11b4f.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/209028860-2a37743c-92c0-48a6-8533-75dbac88bdcc.png)**
+
 **![image](https://user-images.githubusercontent.com/116835707/209028911-4ace892f-d0d7-454a-9c22-246afd2c8fc1.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/209502561-31bb0e47-bbb9-4e60-9840-fedca492925f.png)
 
 **SECCIÓN 7-4**
 **Efecto de carga de un voltímetro**
