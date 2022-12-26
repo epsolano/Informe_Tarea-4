@@ -203,9 +203,15 @@
 
 **![image](https://user-images.githubusercontent.com/116835707/209032057-50767482-0a6b-4850-9973-fc88190e4f08.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/209503886-d5967297-b342-4979-8888-3a0ca28c429d.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/209032103-a7139dd7-a2ba-4a5c-80b1-ed0dd79dc71d.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/209503913-5f3baf15-ac39-4699-b9ea-dc5b23660d11.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/209032157-002d1b36-d115-4ef8-a151-fa1b62c6fd62.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/209503940-5de75009-e1f0-4f06-a810-673cdca7126e.png)
 
 **CAPÍTULO 8**
 
