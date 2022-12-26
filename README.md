@@ -276,36 +276,59 @@
 **Teorema de Norton**
 
 **![image](https://user-images.githubusercontent.com/116835707/209033723-7d0c9644-5639-416f-9555-2c2b55ac6fb5.png)**
+
 **![image](https://user-images.githubusercontent.com/116835707/209033777-b840ce63-c9a4-42a9-bd9f-1d349a46be12.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/209504398-0dc44755-17ab-4d88-93be-b1f6522b4d27.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/209033899-2bc0334e-65ce-481b-90e7-c1ba159226e3.png)**
+
 **![image](https://user-images.githubusercontent.com/116835707/209033931-4c380c11-a1dd-46f3-b383-2e48cf6dc899.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/209504427-f22640ec-8040-48af-892d-c82e000f3aa2.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/209034000-e5b99c00-2fb9-4554-850e-2f6b60def3fa.png)**
+
 **![image](https://user-images.githubusercontent.com/116835707/209034045-805fdd27-17ab-4ba8-8317-acd5304c56f4.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/209504449-765b9677-7ffa-4fb9-919c-708da34c252f.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/209034097-f689b8b4-620d-41e0-84c9-673ebee397d2.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/209504471-ff99589e-98d4-4ab9-8db7-d35e15aa6f1e.png)
 
 **SECCIÓN 8-7**
 **Teorema de transferencia de potencia máxima**
 
 **![image](https://user-images.githubusercontent.com/116835707/209034209-053336c6-4f6e-4ee4-a06b-c07bac37b68c.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/209504552-2886c629-b146-462d-9ac8-69a883f69157.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/209034285-f3f5d23f-b0f5-4788-a4e5-38fd124a050e.png)**
 **![image](https://user-images.githubusercontent.com/116835707/209034341-22a7aeef-6876-4918-93b9-3d186650677a.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/209504588-24c24a27-dac5-482e-a2b5-b003724dfdff.png)
 
 **SECCIÓN 8-8**
 **Conversión delta a Y ![image](https://user-images.githubusercontent.com/116835707/209034467-dae5e587-d082-4925-8581-f36f4a6d948d.png) y Y a ![image](https://user-images.githubusercontent.com/116835707/209034524-373cbb5f-8a6b-4e5c-a639-19d3391b7bd9.png)**
 
 **![image](https://user-images.githubusercontent.com/116835707/209034597-32955f6a-3b4b-4ab3-bce2-b0ed2624b338.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/209504620-24147a2c-b481-4cc7-b9a4-14e70290067f.png)
+
 **Localización y análisis de fallas con multisim**
 
 **![image](https://user-images.githubusercontent.com/116835707/209034734-32e66fe9-5de8-4189-9cc2-af8e3aac2948.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/209504658-32d2c01f-a03b-4466-a798-a0a56ca3f2b1.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/209034778-a26e01c5-385e-49fd-a418-85780c846135.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/209504705-85a38e69-a080-4a18-ad8d-cf5115174d2e.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/209034828-2d36bc32-11da-495d-8baf-7f3fd8c2a6ad.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/209504765-4334ff4a-18e4-495b-a5ee-d15b57a1a5c5.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
