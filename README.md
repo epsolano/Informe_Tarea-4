@@ -18,13 +18,16 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **2. MARCO TEORICO**
+**Capítulo 7**
 
 ![image](https://user-images.githubusercontent.com/116835707/209500241-c500bc52-65b1-44ce-9a60-488288e4be4f.png)
 ![image](https://user-images.githubusercontent.com/116835707/209500322-caaf92ef-8951-4a9c-8037-227afda47dd6.png)
 ![image](https://user-images.githubusercontent.com/116835707/209500383-fda8271c-e979-466c-9f4a-c9a7fa14b6d3.png)
 ![image](https://user-images.githubusercontent.com/116835707/209500450-749d7441-4bde-4fcf-b82a-d5d71e802f72.png)
 ![image](https://user-images.githubusercontent.com/116835707/209500493-244bf657-c7c2-466f-96d3-78697b6dfd1f.png)
+![image](https://user-images.githubusercontent.com/116835707/209500571-0d3550c6-9c4b-440b-a6ec-363dc8c30077.png)
 
+**Capítulo 8**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
