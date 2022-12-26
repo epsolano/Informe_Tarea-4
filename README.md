@@ -69,11 +69,13 @@
 **Análisis de circuitos resistivos en serie-paralelo**
 
 **![image](https://user-images.githubusercontent.com/116835707/209027558-1e5c1f8d-57f6-4c91-a325-8937e92c6126.png)**
+
 **![image](https://user-images.githubusercontent.com/116835707/209027661-8f9542ae-ab47-4976-a1ee-47811eb496bc.png)**
 
 ![image](https://user-images.githubusercontent.com/116835707/209502462-a580e98e-19c1-4a5a-8bc8-015c39c874f1.png)
 
 **![image](https://user-images.githubusercontent.com/116835707/209027705-96485647-5e85-4be2-be3e-e82c6b75f038.png)**
+
 **![image](https://user-images.githubusercontent.com/116835707/209027758-9a35de58-3acc-4577-8c7a-71f9dd8eac65.png)**
 
 ![image](https://user-images.githubusercontent.com/116835707/209502493-c2c211af-5750-466a-b99f-645253df516e.png)
@@ -83,6 +85,7 @@
 ![image](https://user-images.githubusercontent.com/116835707/209502517-ee962d23-7dbf-4548-83b9-1b4fbc8c0e80.png)
 
 **![image](https://user-images.githubusercontent.com/116835707/209027880-b58bcaa7-8970-4c53-9100-08d86af391c3.png)**
+
 **![image](https://user-images.githubusercontent.com/116835707/209027907-9e4d52f8-9802-4e00-94d7-62cdae0eb781.png)**
 
 ![image](https://user-images.githubusercontent.com/116835707/209502539-37ef3013-5dff-40f8-ab56-0b1c05b11b4f.png)
@@ -92,11 +95,18 @@
 ![image](https://user-images.githubusercontent.com/116835707/209502561-31bb0e47-bbb9-4e60-9840-fedca492925f.png)
 
 **![image](https://user-images.githubusercontent.com/116835707/209028033-9f1617cf-2345-47ce-9b9f-ae557563b5d6.png)**
+
 **![image](https://user-images.githubusercontent.com/116835707/209028104-adf0b943-d42c-4fcf-ab58-711be6390142.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/209502925-5cfb2e50-d35b-439e-87a4-b596076701a4.png)
 
 **![image](https://user-images.githubusercontent.com/116835707/209028257-95ab9f03-2eb5-40c9-9020-aef13bd3946c.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/209502938-0785355e-0d16-4aaa-8d71-7ab84b81bd07.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/209028350-253e7403-3818-4dbc-9bff-8d41f56cea0e.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/209502965-fcff66e2-378e-4bda-ba9d-16ad0571db31.png)
 
 **SECCIÓN 7-3**
 **Divisores de voltaje con cargas resistivas**
