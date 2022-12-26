@@ -47,13 +47,23 @@
 
 **![image](https://user-images.githubusercontent.com/116835707/209026970-00f1d9b2-d50a-449f-9e25-4d7881369ce2.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/209501905-4b79aab8-c1c0-4d4c-8b35-1166e6e4bd89.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/209027054-f0ad6b66-a968-4523-bfcd-c152ce006390.png)**
+
 **![image](https://user-images.githubusercontent.com/116835707/209027097-3e2a41d3-06b6-4748-898c-27f85225b21b.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/209501986-5fb2530a-6f25-4db9-ba6b-1696cb60b9ed.png)
 
 **![image](https://user-images.githubusercontent.com/116835707/209027161-98b2fc2d-a247-4656-ba99-21ada3e13a2b.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/209502052-0b395d8e-8403-4956-88a2-287a570a3a69.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/209027255-580bc638-b72e-4b2f-b28a-1a7f2fca39cb.png)**
+
 **![image](https://user-images.githubusercontent.com/116835707/209027302-63a1c1a7-5deb-4fa6-ab6d-50183c9c264b.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/209502149-1cb4274c-2938-46a0-a6c9-12810c90d8c8.png)
 
 **SECCIÓN 7-2**
 **Análisis de circuitos resistivos en serie-paralelo**
